@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Magical-Portal-Mixed-Reality</h1>
 
-<p align="center"><img src="https://i9.ytimg.com/vi_webp/Rhp5AsF-Gbo/maxresdefault.webp?v=682797a0&amp;sqp=CKyIysEG&amp;rs=AOn4CLBsj5d1fe2gyx91Zvj0ZnwJTC0uOQ" alt="project-image"></p>
+![grab-screen-cast]([https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif](https://github.com/wzhuspace/Magical-Portal-MR/blob/main/Screen%20Cast%202025-07-01%20at%2012.43.22.gif))
 
 <p id="description">This project combines Generative AI and XR to instantly create an immersive environment based on the user’s voice commands. The concept was inspired by the movie 'Doctor Strange' in which the protagonist spins his hand to open a portal that teleports him to any desired location.</p>
 
