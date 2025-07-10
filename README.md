@@ -10,7 +10,7 @@
 
 
 <h2> ⚠️ Note</h2>
-This project was created in late 2022. Limitations in speech recognition and image generation accuracy at the time influenced the final outcome.
+This project was created in late 2022. Limitations in speech recognition and image generation accuracy at the time may have influenced the final outcome.
 
 
 <h2> 🔎 Features</h2>
