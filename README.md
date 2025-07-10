@@ -8,6 +8,11 @@
 
 [https://youtu.be/Rhp5AsF-Gbo](https://youtu.be/Rhp5AsF-Gbo)
 
+
+<h2> ⚠️ Note</h2>
+This project was created in late 2022. Limitations in speech recognition and image generation accuracy at the time influenced the final outcome.
+
+
 <h2> 🔎 Features</h2>
 
 *   Voice-driven scene generation using AI
@@ -20,6 +25,3 @@
 *   Unity Meta SDK
 *   Unity ver: 2022 3.0f1
 *   AI API: LeonardoAI/ OpenAI/ ImmersityAI
-
-<h2> ⚠️ Note</h2>
-This project was created in late 2022. Limitations in speech recognition and image generation accuracy at the time influenced the final outcome.
